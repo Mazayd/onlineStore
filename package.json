@@ -1,0 +1,20 @@
+{
+  "name": "onlinestore",
+  "version": "0.0.1",
+  "description": "E-commerce API",
+  "main": "app.mjs",
+  "scripts": {
+    "start": "node app.mjs", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazayd/onlineStore.git"
+  },
+  "author": "Mazayd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mazayd/onlineStore/issues"
+  },
+  "homepage": "https://github.com/Mazayd/onlineStore#readme"
+}
